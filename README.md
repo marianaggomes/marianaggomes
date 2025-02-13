@@ -105,12 +105,14 @@
     alt="GitHub stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marianaggomes&show_icons=true&theme=tokyonight&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=marianaggomes&show_icons=true&theme=tokyonight" 
 />
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaggomes&theme=tokyonight&layout=compact&langs_count=9" 
-  />
+    align="left" 
+    alt="GitHub stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaggomes&layout=compact&theme=tokyonight" 
+/>
+
 
