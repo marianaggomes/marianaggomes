@@ -19,7 +19,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
        
 <img 
     align="left" 
@@ -98,7 +98,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
