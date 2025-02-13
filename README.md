@@ -105,7 +105,7 @@
     alt="GitHub stats" 
     height="125" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marianaggomes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=marianaggomes&show_icons=true&theme=tokyonight&include_all_commits=true"
 />
 <img 
       align="left" 
